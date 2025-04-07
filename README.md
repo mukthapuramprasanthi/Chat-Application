@@ -40,4 +40,4 @@ The goal of this task was to demonstrate basic web development skills and the ab
 
 #OUPUT
 
-https://github.com/mukthapuramprasanthi/Chat-Application/issues/1#issue-2976186538
+![Image](https://github.com/user-attachments/assets/7ed084e3-4382-458d-b970-9fa610c205b0)
